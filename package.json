@@ -1,0 +1,19 @@
+{
+  "name": "node-mondodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/",
+    "start": "nodemon src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
